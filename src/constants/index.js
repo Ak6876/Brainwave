@@ -300,7 +300,7 @@ export const socials = [
         id: "0",
         title: "GitHub",
         iconUrl: github,
-        url: "#",
+        url: "https://github.com/Ak6876/Brainwave",
     },
     {
         id: "1",
